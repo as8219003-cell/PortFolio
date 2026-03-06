@@ -1,5 +1,5 @@
 import { useState } from "react";
-import aboutImg from "../assets/about.jpg";
+import aboutImg from "../assets/about-temp.jpg";
 import "./About.css";
 
 const About = () => {
