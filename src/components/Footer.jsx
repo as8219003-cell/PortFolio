@@ -56,10 +56,13 @@ const Footer = () => {
         <div className="footer-social">
           <h4>Connect</h4>
           <div className="social-icons">
-            <a href="#">
+            <a href="https://github.com/as8219003-cell" target="_blank">
               <FaGithub />
             </a>
-            <a href="#">
+            <a
+              href="https://linkedin.com/in/adarsh-kumar-prajapati-ba4a43336"
+              target="_blank"
+            >
               <FaLinkedin />
             </a>
             <a href="#">

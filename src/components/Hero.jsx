@@ -1,7 +1,7 @@
 import { motion } from "framer-motion"; // eslint-disable-line no-unused-vars
 import { useEffect, useState } from "react";
 import bg from "../assets/hero-bg.jpg";
-import profile from "../assets/profile.jpg";
+import profile from "../assets/profile1.jpg";
 import "./Hero.css";
 const roles = [
   "Full Stack Developer",
