@@ -27,10 +27,10 @@ const Contact = () => {
           </p>
 
           <div className="contact-social">
-            <a href="https://github.com/as8219003-cell">
+            <a href="https://github.com/Adarsh-tech1">
               <FaGithub />
             </a>
-            <a href="https://linkedin.com/in/adarsh-kumar-prajapati-ba4a43336">
+            <a href="https://linkedin.com/in/adarsh-tech1">
               <FaLinkedin />
             </a>
             <a href="#">
